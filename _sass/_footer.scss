@@ -26,5 +26,8 @@ footer {
   font-weight: $footer-font-weight;
   padding: $footer-padding;
   text-align: center;
+}
+
+a:link, a:visited, a:hover {
   text-decoration: none;
 }
