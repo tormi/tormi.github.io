@@ -2,7 +2,7 @@
 title:       Tormi Tabor
 email:       tormi.tabor@gmail.com
 author:      Tormi Tabor
-description: ""
+description: "Minu logiraamat"
 baseurl:     ""
 url:         "http://tormi.github.io"
 date_format: "%b %-d, %Y"
@@ -65,11 +65,11 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Uuemad'
+    older: 'Vanemad'
   share_buttons:
     text:         'Share this post!'
-    facebook:     'Share on Facebook'
+    facebook:     ''
     twitter:      'Share on Twitter'
     googleplus:   'Share on Google+'
     linkedin:     'Share on LinkedIn'
@@ -79,9 +79,9 @@ text:
     stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
+    updated:        'Uuendatud'
+    minute_read:    'minuti lugemine'
+    related_posts:  'Seotud logid'
   index:
     coming_soon: 'Coming soon...'
   contact:
