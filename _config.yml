@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Tormi
+email:       tormi.tabor@gmail.com
+author:      Tormi Tabor
+description: "My stuff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://tormi.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -53,7 +53,7 @@ flattr_button:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
+share_facebook: true
 share_twitter: false
 share_googleplus: false
 share_linkedin: false
