@@ -27,12 +27,12 @@ extended_fonts: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: tormitabor
+disqus_shortname:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
+facebook_comments: true
+facebook_appid: 1563424737311409
 facebook_comments_number: 10
 
 # Social icons
