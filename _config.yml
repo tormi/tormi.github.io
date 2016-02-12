@@ -1,8 +1,8 @@
 # Site settings
-title:       Tormi
+title:       Tormi Tabor
 email:       tormi.tabor@gmail.com
 author:      Tormi Tabor
-description: "My stuff."
+description: ""
 baseurl:     ""
 url:         "http://tormi.github.io"
 date_format: "%b %-d, %Y"
