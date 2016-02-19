@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
+title: Minust
 permalink: /about/
 tags: about
 ---
 
-Some text about me.
+TBD
