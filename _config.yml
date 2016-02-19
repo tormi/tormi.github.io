@@ -5,6 +5,7 @@ author:      Tormi Tabor
 description: "Minu logiraamat"
 baseurl:     ""
 url:         "http://tormi.github.io"
+repo_url:     "https://github.com/tormi/tormi.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
