@@ -2,7 +2,7 @@
 layout:     post
 title:      Laagri kandi 2016.a teeprojektid
 date:       2016-02-19
-summary:    Now, Pixyll is lighter weight and more customizable than before.
+summary:    Ülevaade Laagri kandi 2016.a teeprojektidest.
 categories: koidu kergteed laagri
 ---
 
