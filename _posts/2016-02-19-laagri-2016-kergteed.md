@@ -6,7 +6,7 @@ summary:    Now, Pixyll is lighter weight and more customizable than before.
 categories: koidu kergteed laagri
 ---
 
-Sel aastal saavad reaalsuseks mitmed kaua küpsenud teeprojektid:
+Sel aastal saavad reaalsuseks mitmed teeprojektid, mida ka mina olen aidanud küpsetada:
 
 * Laagri ümbersõidu viimane etapp
   * sh [kergteelõik Hoiu ringtee ja Koru vana silla vahel](https://github.com/tormi/KOV/issues/7) 
