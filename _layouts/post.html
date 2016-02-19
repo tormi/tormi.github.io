@@ -15,9 +15,9 @@ layout: default
   {% endif %}
   <span class="post-meta small">
   {% if page.minutes %}
-    {{ page.minutes }} {{ site.text.post.minute_read }}
+    {{ page.minutes }} {{ site.text.post.minute_read }} {% include edit.html %}
   {% else %}
-    {{ minutes }} {{ site.text.post.minute_read }}
+    {{ minutes }} {{ site.text.post.minute_read }} {% include edit.html %}
   {% endif %}
   </span>
 </div>
