@@ -15,3 +15,5 @@ Sel aastal saavad reaalsuseks mitmed teeprojektid, mida ka mina olen aidanud kü
 * Hoiu ja Vae tänavate rekonstrueerimine
   * sh [Hoiu tänava äärne kergteelõik](https://github.com/tormi/KOV/issues/11)
 * [Koru-Karutiigi-Kotka kergtee rajamine](https://github.com/tormi/KOV/issues/6)
+
+<script src="https://embed.github.com/view/geojson/tormi/KOV/blob/master/kaardid/Koru_DP_KLV.geojson"></script>
