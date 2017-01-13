@@ -6,4 +6,4 @@ tags: minust
 published: true
 ---
 
-![Tormi]({{site.baseurl}}//tormi.jpg)
+![Tormi]({{site.baseurl}}/tormi.jpg)
