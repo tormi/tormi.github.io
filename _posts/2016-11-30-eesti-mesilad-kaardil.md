@@ -14,7 +14,6 @@ Aadressil [mesilad.mesindus.ee](https://mesilad.mesindus.ee/) on detsembri algus
 
 <iframe height='500' width='100%' frameborder='0' src='https://mesilad.mesindus.ee/#13/59.3439/24.5896' style='border: 1px solid black'></iframe>
 
-
 Kaardi saab enda veebilehele lisada järgmise koodi abil (asukoha URL asendada endale sobivaga):
 
 ```javascript
