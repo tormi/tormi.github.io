@@ -1,12 +1,12 @@
 ---
 layout:     post
 title:      Laagri kandi 2016.a teeprojektid
-date:       2016-02-19
+date:       
 summary:    Ülevaade Laagri kandi 2016.a teeprojektidest.
 categories: koidu kergteed laagri
 ---
 
-Sel aastal saavad reaalsuseks mitmed teeprojektid, mida ka mina olen aidanud küpsetada:
+Sel aastal saavad reaalsuseks mitmed teeprojektid, milles ka mina olen kaasa löönud:
 
 * Laagri ümbersõidu viimane etapp
   * sh [kergteelõik Hoiu ringtee ja Koru vana silla vahel](https://github.com/tormi/KOV/issues/7) 
