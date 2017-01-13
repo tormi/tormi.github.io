@@ -3,6 +3,7 @@ layout: page
 title: Minust
 permalink: /about/
 tags: about
+published: true
 ---
 
-TBD
+![Tormi]({{site.baseurl}}//images/tormi.jpg)
