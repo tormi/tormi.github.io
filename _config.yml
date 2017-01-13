@@ -1,10 +1,10 @@
 # Site settings
 title:       Tormi Tabor
-email:       tormi.tabor@gmail.com
+email:       tormi.tabor@eesti.ee
 author:      Tormi Tabor
 description: "Minu logiraamat"
 baseurl:     ""
-url:         "http://tormi.github.io"
+url:         "http://tabor.ee"
 repo_url:     "https://github.com/tormi/tormi.github.io"
 date_format: "%b %-d, %Y"
 
@@ -70,8 +70,8 @@ text:
     older: 'Vanemad'
   share_buttons:
     text:         ''
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
+    facebook:     'Jaga Facebook'is'
+    twitter:      'Jaga Twitter'is'
     googleplus:   'Share on Google+'
     linkedin:     'Share on LinkedIn'
     digg:         'Share on Digg'
@@ -84,7 +84,7 @@ text:
     minute_read:    'minuti lugemine'
     related_posts:  'Seotud logid'
   index:
-    coming_soon: 'Coming soon...'
+    coming_soon: 'Tuleb peagi...'
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
