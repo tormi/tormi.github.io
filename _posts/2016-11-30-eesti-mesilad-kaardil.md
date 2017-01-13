@@ -14,6 +14,8 @@ Aadressil [mesilad.mesindus.ee](https://mesilad.mesindus.ee/) on detsembri algus
 
 <iframe height="350" frameborder="0" scrolling="no" src="https://mesilad.mesindus.ee/#10/58.6328/23.4241" style="border: 1px solid black"></iframe><br/><small><a href="https://mesilad.mesindus.ee/#10/58.6328/23.4241">Vaata suuremat kaarti</a></small>
 
+<iframe height='420' width='620' frameborder='0' src='https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/tormi/KOV/master/kaardid/Koru_DP_KLV.geojson' title='Koru_DP_KLV.geojson'></iframe>
+
 ![Kesselaid](https://raw.githubusercontent.com/tormi/tormi.github.io/master/_posts/kesselaid.png)
 
 Mesilakaardi arendamise käigus registreerisin ka oma mesila ning saadud kogemuse põhjal koostasin [mesila PRIA's registreerimise lühijuhendi](https://honeymarket.github.io/mesilad.mesindus.ee) (viide olemas ka mesilakaardil). Uued andmed kantakse kaardile 1 kord ööpäevas (öösel).
