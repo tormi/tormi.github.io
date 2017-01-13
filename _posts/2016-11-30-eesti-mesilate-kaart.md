@@ -1,6 +1,7 @@
 ---
 published: true
 categories: mesindus
+layout: post
 ---
 ## Eesti mesilad kaardil
 
