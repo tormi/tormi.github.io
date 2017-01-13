@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Minust
-permalink: /about/
-tags: about
+permalink: /minust/
+tags: minust
 published: true
 ---
 
-![Tormi]({{site.baseurl}}//images/tormi.jpg)
+![Tormi]({{site.baseurl}}//tormi.jpg)
