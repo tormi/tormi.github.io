@@ -14,6 +14,12 @@ Aadressil [mesilad.mesindus.ee](https://mesilad.mesindus.ee/) on detsembri algus
 
 <iframe height='500' width='100%' frameborder='0' src='https://mesilad.mesindus.ee/#10/58.6328/23.4241' style='border: 1px solid black'></iframe>
 
+Kaardi saab teksti integreerida järgmise koodi abil (asukoha URL asendada endale sobivaga):
+
+```javascript
+<iframe height='500' width='100%' frameborder='0' src='https://mesilad.mesindus.ee/#10/58.6328/23.4241' style='border: 1px solid black'></iframe>
+```
+
 Mesilakaardi arendamise käigus registreerisin ka oma mesila ning saadud kogemuse põhjal koostasin [mesila PRIA's registreerimise lühijuhendi](https://honeymarket.github.io/mesilad.mesindus.ee). Uued PRIA andmed kantakse kaardile 1 kord ööpäevas (öösel), MPR andmeid uuendan hetkel käsitsi.
 
 Lisaks saab teemast lugeda [ajakirja "Mesinik" detsembrikuu numbrist](http://www.mesinikeliit.ee/failid/mesinik/6_2016.pdf).
