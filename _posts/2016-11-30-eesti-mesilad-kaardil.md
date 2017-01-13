@@ -12,7 +12,7 @@ Aadressil [mesilad.mesindus.ee](https://mesilad.mesindus.ee/) on detsembri algus
 - ühe nupuvajutusega saab kaardil liikuda enda asukohale (näiteks mesilas olles),
 - veebiaadressi abil saab viidata konkreetsele asukohale (näiteks [Kesselaid](https://mesilad.mesindus.ee/#10/58.6328/23.4241)):
 
-<iframe height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://mesilad.mesindus.ee/#10/58.6328/23.4241" style="border: 1px solid black"></iframe><br/><small><a href="https://mesilad.mesindus.ee/#10/58.6328/23.4241">Vaata suuremat kaarti</a></small>
+<iframe height="350" frameborder="0" scrolling="no" src="https://mesilad.mesindus.ee/#10/58.6328/23.4241" style="border: 1px solid black"></iframe><br/><small><a href="https://mesilad.mesindus.ee/#10/58.6328/23.4241">Vaata suuremat kaarti</a></small>
 
 ![Kesselaid](https://raw.githubusercontent.com/tormi/tormi.github.io/master/_posts/kesselaid.png)
 
