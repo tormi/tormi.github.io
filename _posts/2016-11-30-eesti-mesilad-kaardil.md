@@ -10,7 +10,9 @@ Aadressil [mesilad.mesindus.ee](https://mesilad.mesindus.ee/) on detsembri algus
 - kaardil on lisaks mesilate andmekihile võimalik sisse lülitada korjeala puhverkiht raadiusega 2 km mesilast,
 - kaardil on eraldi tähistatud tava- ja mahemesilad ning mahemesindusele üleminevad mesilad (vastavalt kollase, rohelise ja oranžiga),
 - ühe nupuvajutusega saab kaardil liikuda enda asukohale (näiteks mesilas olles),
-- veebiaadressi abil saab viidata konkreetsele asukohale (näiteks [Kesselaid](https://mesilad.mesindus.ee/#10/58.6328/23.4241)).
+- veebiaadressi abil saab viidata konkreetsele asukohale (näiteks [Kesselaid](https://mesilad.mesindus.ee/#10/58.6328/23.4241)):
+
+<script src="https://mesilad.mesindus.ee/#10/58.6328/23.4241"></script>
 
 Mesilakaardi arendamise käigus registreerisin ka oma mesila ning saadud kogemuse põhjal koostasin [mesila PRIA's registreerimise lühijuhendi](https://honeymarket.github.io/mesilad.mesindus.ee) (viide olemas ka mesilakaardil). Uued andmed kantakse kaardile 1 kord ööpäevas (öösel).
 
