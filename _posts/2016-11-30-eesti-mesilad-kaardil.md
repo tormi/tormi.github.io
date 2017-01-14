@@ -7,6 +7,7 @@ title: Eesti mesilad kaardil
 Aadressil [mesilad.mesindus.ee](https://mesilad.mesindus.ee/) on detsembri algusest võimalik tutvuda uue Eesti mesilate kaardiga, mis kasutab [PRIA kaardi](https://kls.pria.ee/kaart/) ja [mahepõllumajanduse registri (MPR)](http://www.pma.agri.ee/index.php?id=104&sub=128&sub2=319) mesilate andmeid. Peamised erinevused PRIA kaardiga võrreldes:
 
 - kaarti on oluliselt lihtsam kasutada ja see on spetsiaalselt mesilaste andmetele mõeldud,
+- kaart on mobiilisõbralik,
 - kaardil on lisaks mesilate andmekihile võimalik sisse lülitada korjeala puhverkiht raadiusega 2 km mesilast,
 - kaardil on eraldi tähistatud tava- ja mahemesilad ning mahemesindusele üleminevad mesilad (vastavalt kollase, rohelise ja oranžiga),
 - ühe nupuvajutusega saab kaardil liikuda enda asukohale (näiteks mesilas olles),
