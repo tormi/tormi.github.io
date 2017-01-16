@@ -7,7 +7,7 @@ Valmis [Saue valla üldplaneeringu kaardivaade](https://sauevald.github.io/yldpl
 
 Neid ja teisi andmekihte saab avada ja muuta vasakul asuvat kihtide nuppu kasutades. Üldplaneeringute kihtide läbipaistvust saab muuta paremal oleva liuguri abil.
 
-Sarnase kaardi soovi korral palun minuga ühendust võtta (kontaktid lehe allääres). Saue valla kaardi saab enda veebilehele ise lisada järgmise koodi abil (asukoha URL asendada endale sobivaga):
+Kaardi saab veebilehele ise lisada järgmise koodi abil (asukoha URL asendada endale sobivaga):
 
 ```javascript
 <iframe height='500px' width='100%' frameborder='0' src='https://sauevald.github.io/yldplaneering/#10/59.3304/24.5235/osm-sauevyp' style='border: 1px solid black'></iframe>
@@ -17,3 +17,5 @@ Tulemus:
 <iframe height='500px' width='100%' frameborder='0' src='https://sauevald.github.io/yldplaneering/#10/59.3304/24.5235/osm-sauevyp' style='border: 1px solid black'></iframe>
 
 [Ava kaart eraldi aknas](https://sauevald.github.io/yldplaneering).
+
+Sarnase kaardi soovi korral palun minuga ühendust võtta (kontaktid lehe allääres).
