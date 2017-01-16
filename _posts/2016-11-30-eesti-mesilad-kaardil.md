@@ -1,7 +1,6 @@
 ---
 published: true
 categories: mesindus
-layout: post
 title: Eesti mesilad kaardil
 ---
 Aadressil [mesilad.mesindus.ee](https://mesilad.mesindus.ee/) on detsembri algusest võimalik tutvuda uue Eesti mesilate kaardiga, mis kasutab [PRIA kaardi](https://kls.pria.ee/kaart/) ja [mahepõllumajanduse registri (MPR)](http://www.pma.agri.ee/index.php?id=104&sub=128&sub2=319) mesilate andmeid. Peamised erinevused PRIA kaardiga võrreldes:
