@@ -22,3 +22,5 @@ Tulemus:
 Mesilakaardi arendamise käigus registreerisin ka oma mesila ning saadud kogemuse põhjal koostasin [mesila PRIA's registreerimise lühijuhendi](https://honeymarket.github.io/mesilad.mesindus.ee). Uued PRIA andmed kantakse kaardile 1 kord ööpäevas (öösel), MPR andmeid uuendan hetkel käsitsi.
 
 Lisaks saab teemast lugeda [ajakirja "Mesinik" detsembrikuu numbrist](http://www.mesinikeliit.ee/failid/mesinik/6_2016.pdf).
+
+Sarnase kaardi soovi korral palun minuga ühendust võtta (kontaktid lehe allääres).
