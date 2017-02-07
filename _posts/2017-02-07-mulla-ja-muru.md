@@ -9,4 +9,4 @@ title: Mulla ja Muru
 
 Võtsin asjaomastega ühendust ja kinnistud võeti müügist maha. Hea on lugeda [tänasest vallalehest](http://sauevald.ee/documents/108075/320703/koduvald_veebruar_2017.pdf/b6c8cd37-3646-4a3b-b6cb-5de498d80163), et toonane toimetamine polnud mitte asjata:
 
-![Koduvalla artikkel]({{ site.baseurl }}/img/kuuseheki-topi-tee.png)
+![Koduvalla artikkel](https://cloud.githubusercontent.com/assets/146800/22705264/8ca0cd8e-ed73-11e6-82bb-ab4cc2223973.png)
