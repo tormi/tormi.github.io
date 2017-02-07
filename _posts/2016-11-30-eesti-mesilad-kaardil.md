@@ -11,13 +11,13 @@ Aadressil [mesilad.mesindus.ee](https://mesilad.mesindus.ee/) on detsembri algus
 - kaardil on eraldi tähistatud tava- ja mahemesilad ning mahemesindusele üleminevad mesilad (vastavalt kollase, rohelise ja oranžiga),
 - ühe nupuvajutusega saab kaardil liikuda enda asukohale (näiteks mesilas olles),
 - veebiaadressi abil saab viidata konkreetsele asukohale (näiteks [minu mesila](https://mesilad.mesindus.ee/#13/59.3439/24.5896)). **EDIT 13.01.2017:** Ka PRIA kaardi abil saab viidata nii [konkreetsele asukohale](https://kls.pria.ee/kaart/#map=11/6578567/533549) kui ka [mesilale](https://kls.pria.ee/kaart/#otsi=ehitised/EE31636). Aitäh, [Mihkel](https://www.facebook.com/mihkel.oviir)!
-- kaardi saab enda veebilehele lisada järgmise koodi abil (asukoha URL asendada endale sobivaga):
+- kaardi saab enda veebilehele lisada järgmise koodi abil (URL asendada endale sobivaga, URLi abil saab muuta nii zoomi kui kuvatavaid kihte):
 
 ```javascript
-<iframe height='500px' width='100%' frameborder='0' src='https://mesilad.mesindus.ee/#10/58.6328/23.4241' style='border: 1px solid black'></iframe>
+<iframe height='500px' width='100%' frameborder='0' src='https://mesilad.mesindus.ee/#4/58.63/24.98/alus-kobarad' style='border: 1px solid black'></iframe>
 ```
 Tulemus:
-<iframe height='500px' width='100%' frameborder='0' src='https://mesilad.mesindus.ee/#13/59.3439/24.5896' style='border: 1px solid black'></iframe>
+<iframe height='500px' width='100%' frameborder='0' src='https://mesilad.mesindus.ee/#4/58.63/24.98/alus-kobarad' style='border: 1px solid black'></iframe>
 
 Mesilakaardi arendamise käigus registreerisin ka oma mesila ning saadud kogemuse põhjal koostasin [mesila PRIA's registreerimise lühijuhendi](https://honeymarket.github.io/mesilad.mesindus.ee). Uued PRIA andmed kantakse kaardile 1 kord ööpäevas (öösel), MPR andmeid uuendan hetkel käsitsi.
 
