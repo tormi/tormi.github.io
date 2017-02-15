@@ -4,7 +4,11 @@ categories: omavalitsemine
 title: Koidu tenniseväljakud?
 ---
 
-20 aktiivset tennisemängijat + 13 alustada soovijat - sellise tulemuse andis 2 päevaga [küsitlus Koidu veebilehel](https://www.facebook.com/events/996474573829706/permalink/996475600496270/), kus küsisin lihtsa küsimuse: "Kas mängid tennist?". 33 inimest on pea 13% Koidu lehe laikijatest - pole paha. Jätan selle küsitluse siiski veel avatuks, sest minu teada om meie külas veel mängijaid, kes võiks ka endast märku anda. Ja lisaks muidugi kõik need külalapsed, kes usinasti trennis käivad ;)
+20 aktiivset tennisemängijat + 13 alustada soovijat - sellise tulemuse andis 2 päevaga [küsitlus Koidu veebilehel](https://www.facebook.com/events/996474573829706/permalink/996475600496270/), kus küsisin lihtsa küsimuse: 
+
+> Kas mängid tennist?
+
+33 inimest on pea 13% Koidu lehe laikijatest - pole paha. Jätan selle küsitluse siiski veel avatuks, sest minu teada om meie külas veel mängijaid, kes võiks ka endast märku anda. Ja lisaks muidugi kõik need külalapsed, kes usinasti trennis käivad ;)
 
 Alles teise küsitluspäeva lõpus esitas Tanel viimaks küsimuse, mida olin vargsi varem oodanud - "Mis on selle uuringu mõte ? Väljaku(te) rajamine?". Jah, eesmärgiks oli tõesti uurida, kui suur on tennise kandepind meie külas. Selgus, et meil on mängijaid ja huvilisi oma väljaku jaoks piisavalt.
 
