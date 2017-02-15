@@ -8,7 +8,7 @@ title: Koidu tenniseväljakud?
 
 > Kas mängid tennist?
 
-33 inimest on pea 13% Koidu lehe laikijatest - pole paha. Jätan selle küsitluse siiski veel avatuks, sest minu teada om meie külas veel mängijaid, kes võiks ka endast märku anda. Ja lisaks muidugi kõik need külalapsed, kes usinasti trennis käivad ;)
+33 inimest on pea 13% [Koidu lehe](https://www.facebook.com/koidu/) laikijatest - pole paha. Jätan selle küsitluse siiski veel avatuks, sest minu teada om meie külas veel mängijaid, kes võiks ka endast märku anda. Ja lisaks muidugi kõik need külalapsed, kes usinasti trennis käivad ;)
 
 Alles teise küsitluspäeva lõpus esitas Tanel viimaks küsimuse, mida olin vargsi varem oodanud - "Mis on selle uuringu mõte ? Väljaku(te) rajamine?". Jah, eesmärgiks oli tõesti uurida, kui suur on tennise kandepind meie külas. Selgus, et meil on mängijaid ja huvilisi oma väljaku jaoks piisavalt.
 
