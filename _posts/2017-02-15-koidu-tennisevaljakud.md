@@ -10,7 +10,7 @@ title: Koidu tenniseväljakud?
 
 33 inimest on pea 13% [Koidu lehe](https://www.facebook.com/koidu/) laikijatest - pole paha. Jätan selle küsitluse siiski veel avatuks, sest minu teada om meie külas veel mängijaid, kes võiks ka endast märku anda. Ja lisaks muidugi kõik need külalapsed, kes usinasti trennis käivad ;)
 
-Alles teise küsitluspäeva lõpus esitas Tanel viimaks küsimuse, mida olin vargsi varem oodanud - "Mis on selle uuringu mõte ? Väljaku(te) rajamine?". Jah, eesmärgiks oli tõesti uurida, kui suur on tennise kandepind meie külas. Selgus, et meil on mängijaid ja huvilisi oma väljaku jaoks piisavalt.
+Alles teise küsitluspäeva lõpus esitas Tanel viimaks küsimuse, mida olin vargsi varem oodanud - "_Mis on selle uuringu mõte ? Väljaku(te) rajamine?_". Jah, eesmärgiks oli tõesti uurida, kui suur on tennise kandepind meie külas. Selgus, et meil on mängijaid ja huvilisi oma väljaku jaoks piisavalt.
 
 Kust asi alguse sai ja milles on konks? Teatavasti on igal maaomanikul õigus oma maale endale elamine ehitada, kui seal eripiiranguid pole. Sellise sooviga (3 elamukrunti) pöördusid minu kui valla maakomisjoni liikme poole aasta alguses konsultatsiooniks [Vana-Kandle ja Iltre](http://xgis.maaamet.ee/maps/XGis?app_id=UU82A&user_id=at&LANG=1&WIDTH=1579&HEIGHT=935&zlevel=10,533732.8725,6578137.2585938&setlegend=UUKAT1_82=1,FUUKAT102_82=0,FUUKAT103_82=1) kinnistute värsked maaomanikud.
 
