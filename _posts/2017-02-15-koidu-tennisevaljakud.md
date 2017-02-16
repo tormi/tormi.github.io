@@ -24,7 +24,7 @@ Kohtumisel tõdesid kõik, et ideel on jumet ja leppisime uueks kohtumise ajaks 
 
 ![Väljakute võimalik asukoht](https://cloud.githubusercontent.com/assets/146800/22997395/ddf58f2c-f3da-11e6-8f14-371efc51e023.png)
 
-Tenniseväljakuid hakkaks opereerima tennisekeskus, kuid väljakute aluse ja teenindusmaa omanikuks saaks maa sihipärase kasutamise tagamiseks kas vald või loodav külaselts. Külaseltsi liikmetel oleks kokkulepitud mahus ja ajal võimalik väljakuid tasuta kasutada. Seega peame lähiajal seltsi asutamiskoosoleku kokku kutsuma - meil ju [teisi](https://github.com/tormi/KOV/issues/22) [projekte](https://github.com/tormi/KOV/issues/30) ka [soolas](https://github.com/tormi/KOV/issues/10).
+Tenniseväljakuid hakkaks opereerima tennisekeskus, kuid väljakute aluse ja teenindusmaa omanikuks saaks maa sihipärase kasutamise tagamiseks kas vald või loodav külaselts. Külaseltsi liikmetel oleks kokkulepitud mahus ja ajal võimalik väljakuid tasuta kasutada. Seega peame lähiajal seltsi asutamiskoosoleku kokku kutsuma - et küla saaks olla projektis juriidiliseks partneriks, samuti tuleb meil omavahel neid kasutustingimusi arutada. Lisaks on meil ju ka [teisi](https://github.com/tormi/KOV/issues/22) [projekte](https://github.com/tormi/KOV/issues/30) [soolas](https://github.com/tormi/KOV/issues/10).
 
 Tennisekeskus soovib rajada savi-liivaväljakud, kuna kaasaegsetest savi-liivaväljakutest on hetkel piirkonnas suur puudus.
 
