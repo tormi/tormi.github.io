@@ -26,7 +26,7 @@ Kohtumisel tõdesid kõik, et ideel on jumet ja leppisime uueks kohtumise ajaks 
 
 Tenniseväljakuid hakkaks opereerima tennisekeskus, kuid väljakute aluse ja teenindusmaa omanikuks saaks maa sihipärase kasutamise tagamiseks kas vald või loodav külaselts. Külaseltsi liikmetel oleks kokkulepitud mahus ja ajal võimalik väljakuid tasuta kasutada. Seega peame lähiajal seltsi asutamiskoosoleku kokku kutsuma - meil ju [teisi](https://github.com/tormi/KOV/issues/22) [projekte](https://github.com/tormi/KOV/issues/30) ka [soolas](https://github.com/tormi/KOV/issues/10).
 
-Tennisekeskus soovib rajada savi-liivaväljakud, et väljakuid oleks võimalik kasutada ka profivõistluste läbiviimiseks (asfaltväljakutel neid ei korraldata).
+Tennisekeskus soovib rajada savi-liivaväljakud, kuna nendest on hetkel suur puudus.
 
 ![Savi-liivaväljak](https://cloud.githubusercontent.com/assets/146800/22997940/3f1a59e8-f3dd-11e6-8965-622ec8a6fb48.jpg)
 
