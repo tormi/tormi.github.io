@@ -20,7 +20,7 @@ See teadmine kuklas tegin nüüd maaomanikele ettepaneku, kas nad oleks nõus pa
 
 ![31.01.2017 kohtumine objektil](https://cloud.githubusercontent.com/assets/146800/22997625/d99b3822-f3db-11e6-9a4f-ccd1652b3646.png)
 
-Kohtumisel tõdesid kõik, et ideel on jumet ja leppisime uueks kohtumise ajaks 15. veebruar, kus läheks jutuga konkreetsemaks. Täna see kohtumine toimuski (seekord valla osaluseta) ja sestap ka see küsitlus. Mida arutasime ja kuidas edasi? Leppisime kokku, et maaomanik ja tennisekeskus koostavad järgmiseks kohtumiseks krundijaotusplaani eskiisi, kus on ära näidatud 4 tenniseväljaku ja 3 eramukrundi asukohad. Väljakute võimalik asukoht:
+Kohtumisel tõdesid kõik, et ideel on jumet ja leppisime uueks kohtumise ajaks 15. veebruar, kus läheks jutuga konkreetsemaks. Täna see kohtumine toimuski (seekord valla osaluseta) ja sestap ka see küsitlus. Mida arutasime ja kuidas edasi? Leppisime kokku, et tennisekeskus koostab järgmiseks kohtumiseks esialgse projekti eelarve ning koos maaomanikuga krundijaotusplaani eskiisi, kus on ära näidatud 4 tenniseväljaku ja 3 eramukrundi asukohad. Väljakute võimalik asukoht:
 
 ![Väljakute võimalik asukoht](https://cloud.githubusercontent.com/assets/146800/22997395/ddf58f2c-f3da-11e6-8f14-371efc51e023.png)
 
