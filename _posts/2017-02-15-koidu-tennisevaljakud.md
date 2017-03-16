@@ -31,3 +31,5 @@ Tennisekeskus soovib rajada savi-liivav채ljakud, kuna kaasaegsetest savi-liivav�
 ![Savi-liivav채ljak](https://cloud.githubusercontent.com/assets/146800/22997940/3f1a59e8-f3dd-11e6-8965-622ec8a6fb48.jpg)
 
 Kui k천ik h채sti l채heb, siis saame oma k체la v채ljakutel korraldada [EV 100 juubeli t채histamise](https://ev100.ee/et/kingitused) turniiri juba suvel 2018!
+
+Teema leidis kajastamist ka [Koduvalla m채rtsikuu numbris](http://sauevald.ee/documents/108075/320703/koduvald_m2rts_2017.pdf/7e0034fe-2f5b-47b3-99bd-123001acbce7).
