@@ -19,3 +19,19 @@ Väljavõte Nõmme linnaosa üldplaneeringust.
 Väljavõte tee-ehitusprojektist. Kollasega on rajatavad kergteed ja lillaga teed, mida ei rajata.
 
 ![Väljavõte tee-ehitusprojektist (asendiplaan)](https://cloud.githubusercontent.com/assets/146800/26465253/379c09b0-4193-11e7-9fcd-25aa5f49095d.png)
+
+## Alternatiivid ja põhjused
+
+Avaldasin oma nördimust pooliku lahenduse üle [Facebooki postituses](https://www.facebook.com/photo.php?fbid=10203119845274279&set=a.1120699834965.14438.1751134117&type=3), mis kogus kiiresti 50+ kommentaari, sealhulgas tagasiside nii teelõigu kasutajatelt kui ehitusprojekti tellijatelt (Maanteeamet, Saue vald). Mõlemad pakkusid alternatiividena välja 2 trassi.
+
+**Alternatiiv 1** kulgeb esmalt tunneli kaudu teisele poole Pärnu maanteed ja seejärel rajatava Selveri juurde kavandatavat sebra mööda üle Pärnu maantee uuesti tagasi.
+
+**Alternatiiv 2** kulgeb Veskitammi tänava kergteed kuni Rahnu tänavani, mööda seda Kaskede puiesteeni ja selle mõttelisele pikendusele väidetavalt kavandatud nn "[Selveri raudteetunneli](https://www.facebook.com/photo.php?fbid=10203120884780266&set=a.1120699834965.14438.1751134117&type=3)" kaudu uuesti kergtee magistraalile.
+
+![ehitusprojekti tellijate alternatiivid](https://cloud.githubusercontent.com/assets/146800/26466994/81e606d2-4199-11e7-9c97-2bd5808234a6.png)
+
+Kumbki alternatiiv ei arvesta kergliikleja huvidega. Esimene suunab liikleja uuesti sebrale - milleks siis üldse Pärnu mnt alt tunnel rajada kui tekitame samaväärse olukorra paarsada meetrit linna pool uuesti? Teine aga on nii naeruväärselt pikk, et ei vääri isegi analüüsimist. Mõlema puhul tuleks tellijatel korra peatuda ja mõelda, kelle huvides nad seda projekti teevad.. Panen spikriks siia ühe viite ka: [copenhagenize.com](http://www.copenhagenize.com/). Muuseas, **Kopenhaagenis tehakse ainult 9% igapäevastest liikumistest autoga**, sest elukeskkonda kujundatakse sellest põhimõttest lähtuvalt:
+
+![copenhagenize](https://cloud.githubusercontent.com/assets/146800/26467543/ba037278-419b-11e7-805d-c0fbc75fa59b.jpg)
+
+Maanteeamet oma [tagasisides](https://www.facebook.com/tormi.tabor/posts/10203119857554586?comment_id=10203147513085957) projektlahenduse põhjuseid ei käsitlenud. Küll tegi seda Saue vallavanem, kelle hinnangul on otselõigu rajamine liiga kallis (väidetavalt 300 - 400 tuh eurot).
