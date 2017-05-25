@@ -22,7 +22,7 @@ Väljavõte tee-ehitusprojektist. Kollasega on rajatavad kergteed ja lillaga tee
 
 ## Alternatiivid ja põhjused
 
-Avaldasin oma nördimust pooliku lahenduse üle [Facebooki postituses](https://www.facebook.com/photo.php?fbid=10203119845274279&set=a.1120699834965.14438.1751134117&type=3), mis kogus kiiresti 50+ kommentaari, sealhulgas tagasiside nii teelõigu kasutajatelt kui ehitusprojekti tellijatelt (Maanteeamet, Saue vald). Mõlemad pakkusid alternatiividena välja 2 trassi.
+Avaldasin oma nördimust pooliku lahenduse üle [Facebooki postituses](https://www.facebook.com/photo.php?fbid=10203119845274279&set=a.1120699834965.14438.1751134117&type=3), mis kogus kiiresti 50+ kommentaari, sealhulgas tagasiside nii teelõigu kasutajatelt kui ehitusprojekti tellijatelt (Maanteeamet, Saue vald). Mõlemad pakkusid otsetee asemele 2 kergliikumise alternatiivi.
 
 **Alternatiiv 1** kulgeb esmalt tunneli kaudu teisele poole Pärnu maanteed ja seejärel rajatava Selveri juurde kavandatavat sebra mööda üle Pärnu maantee uuesti tagasi.
 
@@ -38,10 +38,24 @@ Maanteeamet oma [tagasisides](https://www.facebook.com/tormi.tabor/posts/1020311
 
 ## Lahendusettepanek
 
-Väidan, et otselõigu tegemata jätmine samaaegselt ülejäänud projektiga kujuneb vallavanema väljakäidud summast oluliselt kallimaks. Esiteks tuleb lõigu hiljem rajamisel senitehtut lammutama hakata. Teiseks ei vasta pakutud alternatiivid kergtee magistraali nõuetele. Kuid olulisem neist on, et lisaks olemasolevale kergliiklusele hakkab valmiv Selver inimesi magnetina tõmbama ja mitte ringiga, vaid otse üle Veskitammi tänava ja Pärnu maantee äärt mööda, mille oludega saab tutvuda Google Streetview abil. Sellega kaasneb otsene oht inimeludele, millele hinnasildi riputamine on kohatu.
+Väidan, et otselõigu tegemata jätmine samaaegselt ülejäänud projektiga kujuneb vallavanema väljakäidud summast oluliselt kallimaks. Esiteks tuleb lõigu hiljem rajamisel senitehtut lammutama hakata. Teiseks ei vasta pakutud alternatiivid kergtee magistraali nõuetele. Kuid olulisem neist on, et lisaks olemasolevale kergliiklusele hakkab valmiv Selver inimesi magnetina tõmbama ja mitte ringiga, vaid otse üle Veskitammi tänava ja Pärnu maantee äärt mööda, mille oludega saab tutvuda [Google Streetview](https://www.google.ee/maps/@59.3528543,24.629153,3a,75y,258.66h,86.73t/data=!3m6!1e1!3m4!1s6G5dj0cAVByqPAepNnbbWg!6s%2F%2Fgeo3.ggpht.com%2Fmaps%2Fphotothumb%2Ffd%2Fv1%3Fbpb%3DChAKDnNlYXJjaC5UQUNUSUxFEkAKEglReh0F07-SRhEqv8p_MU9G8BIKDaKHYCMVqhyuDhoSCVMKzGtuIe1GEZ-PeRdbzJYWKgoNoodgIxWqHK4OGgQIVhBW%26gl%3DEE!7i13312!8i6656!6m1!1e1) abil. Sellega kaasneb otsene oht inimeludele, millele hinnasildi riputamine on kohatu.
 
 Oma Facebooki arutelude käigus olen vähemalt vallavalitsuse juhtkonnalt saanud kinnituse, et juhul, kui vajaminev summa leitaks, saaks probleemse otselõigu käesolevasse hankesse lisada, sest tegemist on projekteerimis- ja ehitushankega. Seetõttu pakungi välja **variandi, kust vähemalt osa puuduolevast rahast võtta**.
 
-Lisaks Veskitammi ristmiku rajamisele kavandab Maanteeamet ümberehitustöid ka Pärnu mnt lõigus Veskitammi tänavast Topi ristmikuni, sh kergtee magistraali rajamine Pärnu mnt äärt mööda kuni Topi ristmiku kergteeni. See kergtee projekt on jaotatud lõikudeks, millest kõige Topi poolsem, [Maksimarketi ja Pärnu mnt vahel kulgev lõik](https://www.mnt.ee/sites/default/files/construction_files/asendiplaan_jalgimae-top_3.pdf) (õieti selle ärajätmine) ongi meie puuduoleva raha allikaks.
+Lisaks Veskitammi ristmiku rajamisele kavandab Maanteeamet ümberehitustöid ka Pärnu mnt lõigus Veskitammi tänavast Topi ristmikuni, sh kergtee magistraali rajamine Pärnu mnt äärt mööda kuni Topi ristmiku kergteeni. See kergtee projekt on jaotatud lõikudeks, millest kõige Topi poolsem, [Maksimarketi ja Pärnu mnt vahel kulgev 430 m pikkune lõik](https://www.mnt.ee/sites/default/files/construction_files/asendiplaan_jalgimae-top_3.pdf) (õieti selle ärajätmine) ongi meie puuduoleva raha allikaks.
 
 ![Maksimarketi esine kergtee](https://cloud.githubusercontent.com/assets/146800/26468852/99971134-41a0-11e7-9c6b-2b544ca9f066.png)
+
+Mismõttes jätame pea pool kilomeetrit kergteed ära? Põhjendan:
+- trass on ohtlikum kui alternatiiv (3 sõiduteeületust vs 1),
+- trass on 70 m pikem kui alternatiiv,
+- trass ei anna võrreldes alternatiiviga kergliiklejale mingit lisandväärtust,
+- trass on lihtsalt inimvaenulik, kuna on vahetult suure ja mürarikka magistraaltee ääres.
+
+Mis selliseks alternatiiviks võiks olla?
+
+![Maksimarketi esise kergtee alternatiiv](https://cloud.githubusercontent.com/assets/146800/26470140/42d23e50-41a5-11e7-8d26-05547b5c22ae.png)
+
+Selleks on skeemil rohelisega märgitud trass B, mis kas on juba olemas (Urda raudteepeatusest Pärnu mnt aluse tunnelini) või on saanud finantseerimisotsuse ja rajatakse lähiajal nn "raudteepeatuste juurdepääsu meetme" abil (Topi kergteest Urda raudteepeatuseni). Jah, see trass on just niipalju parem kui eespool võrdluses kirjeldatud, kuid millegipärast ei ole need plussid projekti tellimise / projekteerimise käigus ilmnenud.. Aga veel pole hilja!
+
+Ma ei oska hinnata, kas selle 430 m lõigu ärajätmine katab 110 m pikkuse Veskitammi - Vana-Pääsküla lõigu (sisaldab tunnelit Veskitammi tn alt) rajamise maksumuse, aga oluline summa peaks seeläbi vabanema ja kui tõesti midagi veel puudu jääb, tuleks see ehitusprojekti asjaomastel leida.
