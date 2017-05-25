@@ -34,7 +34,7 @@ Kumbki alternatiiv ei arvesta kergliikleja huvidega. Esimene suunab liikleja uue
 
 ![copenhagenize](https://cloud.githubusercontent.com/assets/146800/26467543/ba037278-419b-11e7-805d-c0fbc75fa59b.jpg)
 
-Maanteeamet oma [tagasisides](https://www.facebook.com/tormi.tabor/posts/10203119857554586?comment_id=10203147513085957) projektlahenduse põhjuseid ei käsitlenud. Küll tegi seda Saue vallavanem, kelle hinnangul on otselõigu rajamine liiga kallis ([väidetavalt kuni 500 tuh eurot](https://www.facebook.com/tormi.tabor/posts/10203119857554586?comment_id=10203120109520885&reply_comment_id=10203124622953718)).
+Maanteeamet oma [tagasisides](https://www.facebook.com/tormi.tabor/posts/10203119857554586?comment_id=10203147513085957) projektlahenduse põhjuseid ei käsitlenud. Küll tegi seda Saue vallavanem, kelle hinnangul on 110 m pikkuse otselõigu rajamine liiga kallis ([väidetavalt kuni 500 tuh eurot](https://www.facebook.com/tormi.tabor/posts/10203119857554586?comment_id=10203120109520885&reply_comment_id=10203124622953718)).
 
 ## Lahendusettepanek
 
