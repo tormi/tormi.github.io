@@ -22,7 +22,7 @@ Väljavõte tee-ehitusprojektist. Kollasega on rajatavad kergteed ja lillaga tee
 
 ## Alternatiivid ja põhjused
 
-Avaldasin oma nördimust pooliku lahenduse üle [Facebooki postituses](https://www.facebook.com/photo.php?fbid=10203119845274279&set=a.1120699834965.14438.1751134117&type=3), mis kogus kiiresti 50+ kommentaari, sealhulgas tagasiside nii teelõigu kasutajatelt kui ehitusprojekti mõlemalt tellijalt (Maanteeamet, Saue vald). Mõlemad tellijad pakkusid otsetee asemele 2 kergliikumise alternatiivi.
+Avaldasin oma nördimust pooliku lahenduse üle [Facebooki postituses](https://www.facebook.com/photo.php?fbid=10203119845274279&set=a.1120699834965.14438.1751134117&type=3), mis kogus kiiresti 50+ kommentaari, sealhulgas tagasiside nii teelõigu kasutajatelt kui ehitusprojekti mõlemalt tellijalt (Maanteeamet, Saue vald). Mõlemad tellijad pakkusid otsetee asemele 2 kergliiklemise alternatiivi.
 
 **Alternatiiv 1** kulgeb esmalt tunneli kaudu teisele poole Pärnu maanteed ja seejärel rajatava Selveri juurde kavandatavat sebra mööda üle Pärnu maantee uuesti tagasi.
 
