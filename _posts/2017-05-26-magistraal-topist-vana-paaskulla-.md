@@ -47,7 +47,7 @@ Lisaks Veskitammi ristmiku rajamisele kavandab Maanteeamet ümberehitustöid ka 
 ![Maksimarketi esine kergtee](https://cloud.githubusercontent.com/assets/146800/26468852/99971134-41a0-11e7-9c6b-2b544ca9f066.png)
 
 Mismõttes jätame pea pool kilomeetrit kergteed ära? Põhjendan:
-- trass on ohtlikum kui alternatiiv (3 sõiduteeületust vs 1),
+- trass on ohtlikum kui alternatiiv (3 sõiduteeületust vs 2),
 - trass on 70 m pikem kui alternatiiv,
 - trass ei anna võrreldes alternatiiviga kergliiklejale mingit lisandväärtust,
 - trass on lihtsalt inimvaenulik, kuna on vahetult suure ja mürarikka magistraaltee ääres.
