@@ -62,4 +62,4 @@ Selleks on skeemil rohelisega märgitud trass B, mis kas on juba olemas (Urda ra
 
 Ma ei oska hinnata, kas selle 430 m lõigu ärajätmine katab 110 m pikkuse Veskitammi - Vana-Pääsküla lõigu (sisaldab tunnelit Veskitammi tn alt) rajamise maksumuse, aga oluline summa peaks seeläbi vabanema ja kui tõesti midagi veel puudu jääb, tuleks see ehitusprojekti asjaomastel leida. Teeme Topist Vana-Pääskülani väärika magistraali - seekord kergliiklejatele!
 
-<script src="https://gist.github.com/tormi/74334dde3158a9ccd06bc27404d08f84.js"></script>
+<script src="https://gist.github.com/tormi/4786ad8949cc100a9ffd025c0deb5104.js"></script>
