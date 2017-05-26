@@ -61,3 +61,5 @@ Mis selliseks alternatiiviks võiks olla?
 Selleks on skeemil rohelisega märgitud trass B, mis kas on juba olemas (Urda raudteepeatusest Pärnu mnt aluse tunnelini) või on saanud finantseerimisotsuse ja rajatakse lähiajal nn "raudteepeatuste juurdepääsu meetme" abil (Topi kergteest Urda raudteepeatuseni). Jah, see trass on just niipalju parem kui eespool võrdluses kirjeldatud, kuid millegipärast ei ole need plussid projekti tellimise / projekteerimise käigus ilmnenud.. Aga veel pole hilja!
 
 Ma ei oska hinnata, kas selle 430 m lõigu ärajätmine katab 110 m pikkuse Veskitammi - Vana-Pääsküla lõigu (sisaldab tunnelit Veskitammi tn alt) rajamise maksumuse, aga oluline summa peaks seeläbi vabanema ja kui tõesti midagi veel puudu jääb, tuleks see ehitusprojekti asjaomastel leida. Teeme Topist Vana-Pääskülani väärika magistraali - seekord kergliiklejatele!
+
+<script src="https://gist.github.com/tormi/74334dde3158a9ccd06bc27404d08f84.js"></script>
