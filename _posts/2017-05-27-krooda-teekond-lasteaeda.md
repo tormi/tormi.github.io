@@ -12,4 +12,6 @@ Mõned kohad märkisime siiski üles, et vallaonud saaks need korda teha ;) Siin
 
 Videokokkuvõtte teekonnast:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SxVOc4NfIFg?list=PLXD3MdP3HjILUaF--gAVKuCiqDFQa0pOc?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SxVOc4NfIFg?list=PLXD3MdP3HjILUaF--gAVKuCiqDFQa0pOc" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rF5ttnIyJrk?list=PLXD3MdP3HjILUaF--gAVKuCiqDFQa0pOc" frameborder="0" allowfullscreen></iframe>
