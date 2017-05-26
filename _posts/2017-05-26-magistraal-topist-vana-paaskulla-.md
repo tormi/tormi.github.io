@@ -12,13 +12,13 @@ Paraku selgus pärast põhjalikku [tehnilise projektiga](https://www.mnt.ee/et/e
 
 Lisaks Vana-Pääsküla tõmbekeskusele on nii Nõmme linnaosa kui Saue valla üldplaneeringusse kantud kergtee magistraal kavandatud teenindama transiitliiklust Tallinna ja lähiümbruse (Laagri, Saue, Keila, Saku jne) vahel.
 
-Väljavõte Nõmme linnaosa üldplaneeringust.
-
-![Väljavõte Nõmme LO üldplaneeringust](https://cloud.githubusercontent.com/assets/146800/26465226/2301ea10-4193-11e7-8e5b-2208674685cf.jpg)
-
 Väljavõte tee-ehitusprojektist. Kollasega on rajatavad kergteed ja lillaga teed, mida ei rajata.
 
 ![Väljavõte tee-ehitusprojektist (asendiplaan)](https://cloud.githubusercontent.com/assets/146800/26465253/379c09b0-4193-11e7-9fcd-25aa5f49095d.png)
+
+Väljavõte Nõmme linnaosa üldplaneeringust.
+
+![Väljavõte Nõmme LO üldplaneeringust](https://cloud.githubusercontent.com/assets/146800/26465226/2301ea10-4193-11e7-8e5b-2208674685cf.jpg)
 
 ## Alternatiivid ja põhjused
 
