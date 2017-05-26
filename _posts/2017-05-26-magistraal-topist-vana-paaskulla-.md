@@ -4,7 +4,7 @@ categories: omavalitsemine
 title: Magistraal Topist Vana-Pääskülla
 ---
 
-Maanteeamet on mai keskel avaldanud kauaoodatud [Veskitammi liiklussõlme ehitustööde riigihanke teate](https://riigihanked.riik.ee/register/hange/185849), mille eesmärgiks on ehitada riigitee 4 Tallinn-Pärnu-Ikla km 13,0-13,7 Veskitammi liiklussõlm ja raudteealune jalgratta –ja jalgtee tunnel. See on väga positiivne ja oodatud sõnum eelkõige Nõlvaku rahvale, aga ka näiteks neile, kelle lapsed Nõlvaku lasteaias käivad.
+Maanteeamet on mai keskel avaldanud kauaoodatud [Veskitammi liiklussõlme ehitustööde riigihanke teate](https://riigihanked.riik.ee/register/hange/185849), mille eesmärgiks on ehitada riigitee 4 Tallinn-Pärnu-Ikla km 13,0-13,7 Veskitammi liiklussõlm ja raudteealune jalgratta– ja jalgtee tunnel. See on väga positiivne ja oodatud sõnum eelkõige Nõlvaku rahvale, aga ka näiteks neile, kelle lapsed Nõlvaku lasteaias käivad.
 
 ## Probleem
 
