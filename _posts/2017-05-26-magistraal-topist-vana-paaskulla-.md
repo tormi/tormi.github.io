@@ -30,7 +30,9 @@ Avaldasin oma nördimust pooliku lahenduse üle [Facebooki postituses](https://w
 
 ![ehitusprojekti tellijate alternatiivid](https://cloud.githubusercontent.com/assets/146800/26466994/81e606d2-4199-11e7-9c97-2bd5808234a6.png)
 
-Kumbki alternatiiv ei arvesta kergliikleja huvidega. Esimene suunab liikleja uuesti sebrale - milleks siis üldse Pärnu mnt alt tunnel rajada kui tekitame samaväärse olukorra paarsada meetrit linna pool uuesti? Teine aga on nii naeruväärselt pikk, et ei vääri antud kontekstis isegi analüüsimist. Mõlema puhul tuleks tellijatel korra peatuda ja mõelda, kelle huvides nad seda projekti teevad.. Panen spikriks siia ühe viite ka: [copenhagenize.com](http://www.copenhagenize.com/). Muuseas, **Kopenhaagenis tehakse ainult 9% igapäevastest liikumistest autoga**, sest elukeskkonda kujundatakse sellest põhimõttest lähtuvalt:
+Kumbki alternatiiv ei arvesta kergliikleja huvidega. Esimene suunab liikleja uuesti sebrale - milleks siis üldse Pärnu mnt alt tunnel rajada kui tekitame samaväärse olukorra paarsada meetrit linna pool uuesti? Teine aga on nii naeruväärselt pikk, et ei vääri antud kontekstis isegi analüüsimist. 
+
+Mõlema puhul tuleks tellijatel korra peatuda ja mõelda, kelle huvides nad seda projekti teevad.. Panen spikriks siia ühe viite ka: [copenhagenize.com](http://www.copenhagenize.com/). Muuseas, **Kopenhaagenis tehakse ainult 9% igapäevastest liikumistest autoga**, sest elukeskkonda kujundatakse sellest põhimõttest lähtuvalt:
 
 ![copenhagenize](https://cloud.githubusercontent.com/assets/146800/26467543/ba037278-419b-11e7-805d-c0fbc75fa59b.jpg)
 
