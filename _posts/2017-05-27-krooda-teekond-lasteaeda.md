@@ -4,7 +4,7 @@ categories: omavalitsemine
 title: Krõõda teekond rattaga lasteaeda
 ---
 
-Sõidame tütre Krõõdaga igal hommikul 3,3 kilomeetrit rattaga kodust [Nõlvaku lasteaeda](http://www.nolvakulasteaed.ee/) ja õhtul tagasi. Täna tegime sellele teele "ülevaatuse", mille tulemusi siinkohal jagan. [Krõõdale meeldib väga rattaga sõita](https://youtu.be/rF5ttnIyJrk?t=3m5s) ja teeolud on üldiselt väga head. Teel saab vajadusel mõnusalt ka [puhata ja isegi musitseerida](https://youtu.be/SxVOc4NfIFg?t=2m43s)!
+Sõidame tütre Krõõdaga igal hommikul 3,3 kilomeetrit rattaga kodust [Nõlvaku lasteaeda](http://www.nolvakulasteaed.ee/) ja õhtul tagasi. Eile tegime sellele teele "ülevaatuse", mille tulemusi siinkohal jagan. [Krõõdale meeldib väga rattaga sõita](https://youtu.be/rF5ttnIyJrk?t=3m5s) ja teeolud on üldiselt väga head. Teel saab vajadusel mõnusalt ka [puhata ja isegi musitseerida](https://youtu.be/SxVOc4NfIFg?t=2m43s)!
 
 Mõned kohad märkisime siiski üles, et vallaonud saaks need korda teha ;) Siin nad on:
 
