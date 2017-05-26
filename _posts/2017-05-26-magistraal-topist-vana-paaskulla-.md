@@ -44,7 +44,7 @@ Väidan, et otselõigu tegemata jätmine samaaegselt ülejäänud projektiga kuj
 
 Oma Facebooki arutelude käigus olen vähemalt vallavalitsuse juhtkonnalt saanud kinnituse, et juhul, kui vajaminev summa leitaks, saaks probleemse otselõigu käesolevasse hankesse lisada, sest tegemist on projekteerimis- ja ehitushankega. Seetõttu pakungi välja **variandi, kust vähemalt osa puuduolevast rahast võtta**.
 
-Lisaks Veskitammi ristmiku rajamisele kavandab Maanteeamet ümberehitustöid ka Pärnu mnt lõigus Veskitammi tänavast Topi ristmikuni, sh kergtee magistraali rajamine Pärnu mnt äärt mööda kuni Topi ristmiku kergteeni. See kergtee projekt on jaotatud lõikudeks, millest kõige Topi poolsem, [Maksimarketi ja Pärnu mnt vahel kulgev 430 m pikkune lõik](https://www.mnt.ee/sites/default/files/construction_files/asendiplaan_jalgimae-top_3.pdf) (õieti selle ärajätmine) ongi meie puuduoleva raha allikaks.
+Lisaks Veskitammi ristmiku rajamisele kavandab Maanteeamet ümberehitustöid ka Pärnu mnt lõigus Veskitammi tänavast Topi ristmikuni, sh kergtee magistraali rajamine Pärnu mnt äärt mööda kuni Topi ristmiku kergteeni. See kergtee projekt on jaotatud lõikudeks, millest kõige Topi poolsem, **[Maksimarketi ja Pärnu mnt vahel kulgev 430 m pikkune lõik](https://www.mnt.ee/sites/default/files/construction_files/asendiplaan_jalgimae-top_3.pdf) (õieti selle ärajätmine) ongi meie puuduoleva raha allikaks**.
 
 ![Maksimarketi esine kergtee](https://cloud.githubusercontent.com/assets/146800/26468852/99971134-41a0-11e7-9c6b-2b544ca9f066.png)
 
