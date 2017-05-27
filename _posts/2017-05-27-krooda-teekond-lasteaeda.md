@@ -12,7 +12,7 @@ Mõned kohad märkisime siiski üles, et vallaonud saaks need korda teha ;) Siin
 
 ## Tüüpviga
 
-13-st probleemsest kohast 11-l oli tüüpveaks **äärekivi terav serv** kohtades, kus kergtee ristub mõne teise teega. Kui Veskitammi tänava autoteel katendit vahetati, siis märgistati selline 5 cm kõrgune terav serv eraldi liiklusmärgiga.
+13-st probleemsest kohast 11-l oli probleemiks **äärekivi terav serv** kohtades, kus kergtee ristub mõne teise teega. Kui Veskitammi tänava autoteel katendit vahetati, siis märgistati selline 5 cm kõrgune terav serv eraldi liiklusmärgiga.
 
 ![20170515_081727](https://cloud.githubusercontent.com/assets/146800/26518103/6d417874-42b1-11e7-99cf-9958a7bd795e.jpg)
 
