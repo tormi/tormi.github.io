@@ -10,7 +10,23 @@ Mõned kohad märkisime siiski üles, et vallaonud saaks need korda teha ;) Siin
 
 <script src="https://gist.github.com/tormi/74334dde3158a9ccd06bc27404d08f84.js"></script>
 
-Videokokkuvõtte teekonnast:
+## Tüüpviga
+
+13-st probleemsest kohast 11-l oli tüüpveaks **äärekivi terav serv** kohtades, kus kergtee ristub mõne teise teega. Kui Veskitammi tänava autoteel katendit vahetati, siis märgistati selline 5 cm kõrgune terav serv eraldi liiklusmärgiga.
+
+![20170515_081727](https://cloud.githubusercontent.com/assets/146800/26518103/6d417874-42b1-11e7-99cf-9958a7bd795e.jpg)
+
+![20170515_083541](https://cloud.githubusercontent.com/assets/146800/26518119/e7db632e-42b1-11e7-83cd-0accc5b10a4d.jpg)
+
+Kujutage nüüd ette, et Krõõda teekonnal oleks 11 sellist ohumärki ... Mina ka ei kujuta. Aga kas autotee 5 cm on kõrgem kui kergtee 5 cm? Pildid Laagri koolimaja ees asuvast punktist 5:
+
+![20170515_084144](https://cloud.githubusercontent.com/assets/146800/26518128/396b6b4e-42b2-11e7-930b-78bcef373228.jpg)
+
+![20170515_084135](https://cloud.githubusercontent.com/assets/146800/26518132/45b8dd78-42b2-11e7-8b3f-d4013e43ebdc.jpg)
+
+Märkus juhuks, kui neid probleemseid kohti hakatakse parandama - äärekivi lõikamisest ei piisa, üleminek peab olema lauge.
+
+Videod teekonnast:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SxVOc4NfIFg?list=PLXD3MdP3HjILUaF--gAVKuCiqDFQa0pOc" frameborder="0" allowfullscreen></iframe>
 
