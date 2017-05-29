@@ -18,7 +18,7 @@ Mõned kohad märkisime siiski üles, et vallaonud saaks need korda teha ;) Siin
 
 ![20170515_083541](https://cloud.githubusercontent.com/assets/146800/26518119/e7db632e-42b1-11e7-83cd-0accc5b10a4d.jpg)
 
-Kujutage nüüd ette, et Krõõda teekonnal oleks 11 sellist liiklusmärki ... Mina ka ei kujuta. Aga kas autotee 5 cm on kõrgem kui kergtee 5 cm? Pildid Laagri koolimaja ees asuvast punktist 5:
+Kujutage nüüd ette, et Krõõda teekonnal oleks 11 sellist liiklusmärki ... Mina ka ei kujuta. Aga kas autotee 5 cm on kõrgem kui kergtee 5 cm? Pildid Laagri koolimaja ees asuvast [punktist 5](https://youtu.be/SxVOc4NfIFg?t=3m25s):
 
 ![20170515_084144](https://cloud.githubusercontent.com/assets/146800/26518128/396b6b4e-42b2-11e7-930b-78bcef373228.jpg)
 
