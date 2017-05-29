@@ -38,7 +38,7 @@ Ma väga loodan, et tuletõrjujad tulevad garaazist välja ja need probleemsed k
 
 Sinna visati need labidatäied, kuid tegelikust probleemist ei saadud aru ja tulekahju põhjust ei likvideeritud - **jätkuvalt võetakse vastu teetöid, kus esinevad samad vead**.
 
-Ei oleks ju raske lisada igasse kergteega seotud hankesse tingimus, et ristumised peavad olema tasased. Ja selle tingimuse täitmist tööde ülevõtmisel reaalselt kontrollima.
+Ei oleks ju raske lisada igasse kergteega seotud hankesse tingimus, et ristumised peavad olema tasased. Ja selle tingimuse täitmist tööde ülevõtmisel reaalselt kontrollida.
 
 Lisaks tuleks Krõõda teekonna sarnased süsteemsed ülevaatused teha kõigile peamistele elukohtade ja lasteasutuste/töökohtade vahelistele marsruutidele. Me kulutame päris suuri summasid kergteede rajamisele, aga käesolevas loos kirjeldatud väikesed takistused ei lase neid investeeringuid maksimaalselt ära kasutada.
 
