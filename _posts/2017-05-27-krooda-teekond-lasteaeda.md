@@ -31,9 +31,7 @@ Märkus juhuks, kui neid probleemseid kohti hakatakse parandama - äärekivi lõ
 Ma väga loodan, et tuletõrjujad tulevad garaazist välja ja need probleemsed kohad saavad parandatud. Palju jätkusuutlikum ja ka odavam oleks aga **õppida kogemusest** ja teha vastavad järeldused edaspidises. [2013.a postitasin valla Facebook'i kontole täpselt sama probleemi kohta Sofka poe ees](https://www.facebook.com/photo.php?fbid=3125543114794&set=o.338787067638&type=3&theater) (jääb ka Krõõda teekonnale):
 
 > Käisime poisiga eile poes jäätist ostmas. Ta sõitis Koidust ise rattaga poodi ja tagasi juba viiendat korda. Varem on kõik sujunud, kuid seekord osutus see Leivatoa juures kõnniteel olev 6-7 cm kõrgune künnis talle liiga kõrgeks, pidin ta sellest üle aitama..
-
 > Äkki saaks sinna ka mõne labidatäie asfalti visata, kui kergteed hakatakse taastama? Tänud!
-
 > ![kaaren-2013](https://cloud.githubusercontent.com/assets/146800/26539648/4a8f74ba-4456-11e7-82e4-eadb1d226e3a.jpg)
 
 Sinna visati need labidatäied, kuid tegelikust probleemist ei saadud aru ja tulekahju põhjust ei likvideeritud - **jätkuvalt võetakse vastu teetöid, kus esinevad samad vead**.
