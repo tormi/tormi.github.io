@@ -53,14 +53,14 @@ liiklusolukorra muutumist.
 RJ Kui on veendumus, et saarte vahele ei moodustu veelompi, tuleks jalgrattatee puhul eelistada äärekivi
 kõrgust 0 cm._
 
-_(8) Ohutussaar peab analoogiliselt kõnniteega olema tõstetud sõidutee pinnast kõrgemale. Ohutussaart
+_(8) **Ohutussaar peab analoogiliselt kõnniteega olema tõstetud sõidutee pinnast kõrgemale.** Ohutussaart
 läbiv ülekäigurada võib olla sõidutee tasandil, kui selle kattematerjal erineb sõidutee omast, nii et
 vaegnägijad ja pimedad tajuvad liiklusolukorra muutumist. Kattematerjal ei tohi takistada ratastoolis
 liikujat, seega naastu vms kõrgus ei tohi olla suurem kui 2 mm kuni 3 mm, et ei tekiks ohtlikku
 vibratsiooni või kukkumise ohtu takistuse tõttu._
 
-_(9) Sõiduteele laskumise ja sealt kõnniteele või ohutussaarele tõusmise hõlbustamiseks ei tohi kasutada
-längu lõigatud äärekive ega kavandada sõiduteele kaldpakke._
+_(9) Sõiduteele laskumise ja sealt kõnniteele või ohutussaarele tõusmise hõlbustamiseks **ei tohi kasutada
+längu lõigatud äärekive** ega kavandada sõiduteele kaldpakke._
 
 Seega on tellijal lähteülesandes ning tööde vastuvõtmisel võimalik viidata kehtivale standardile. Kasutagem seda võimalust!
 
