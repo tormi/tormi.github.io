@@ -38,7 +38,31 @@ Sinna visati need labidatäied, kuid tegelikust probleemist ei saadud aru ja tul
 
 Ei oleks ju raske lisada igasse kergteega seotud hankesse tingimus, et _ristumised peavad olema tasased_. Ja selle tingimuse täitmist tööde ülevõtmisel reaalselt kontrollida.
 
-Lisaks tuleks Krõõda teekonna sarnased süsteemsed ülevaatused teha kõigile peamistele elukohtade ja lasteasutuste/töökohtade vahelistele marsruutidele. Me kulutame päris suuri summasid kergteede rajamisele, aga käesolevas loos kirjeldatud väikesed takistused ei lase neid investeeringuid maksimaalselt ära kasutada.
+Lisaks tuleks Krõõda teekonna sarnased süsteemsed ülevaatused teha kõigile peamistele elukohtade ja lasteasutuste/töökohtade vahelistele marsruutidele. Me kulutame päris suuri summasid kergteede rajamisele, aga käesolevas loos kirjeldatud väikesed takistused ei lase neid investeeringuid maksimaalselt ära kasutada. 
+
+## Standard EVS 843:2016. Linnatänavad
+(Artiklile lisatud 08.06.2017)
+
+Standardis on punkt _7.2.6 Jalakäijate ja jalgratturite teeületus_, mille lõigud 7, 8 ja 9 käsitlevad täpselt eeltoodut:
+
+_(7) Saared ja kõnniteelt ülekäigule mineku kohad tuleb kavandada nii, et neid saaksid kasutada
+vaegliiklejad nii ratastoolis kui ka jalgsi. **Kõnnitee ja ohutussaare äärekivi kõrgus ülekäiguraja kohal peab
+olema 1 cm kuni 2 cm, jalgrattatee puhul 0 cm kuni 1 cm** (vt joonis 7.13). Ohutussaart läbiv ülekäiguraja
+osa võib olla sõidutee tasapinnas, kui selle kattematerjal erineb sõidutee omast, nii et vaegnägijad tajuvad
+liiklusolukorra muutumist.
+RJ Kui on veendumus, et saarte vahele ei moodustu veelompi, tuleks jalgrattatee puhul eelistada äärekivi
+kõrgust 0 cm._
+
+_(8) Ohutussaar peab analoogiliselt kõnniteega olema tõstetud sõidutee pinnast kõrgemale. Ohutussaart
+läbiv ülekäigurada võib olla sõidutee tasandil, kui selle kattematerjal erineb sõidutee omast, nii et
+vaegnägijad ja pimedad tajuvad liiklusolukorra muutumist. Kattematerjal ei tohi takistada ratastoolis
+liikujat, seega naastu vms kõrgus ei tohi olla suurem kui 2 mm kuni 3 mm, et ei tekiks ohtlikku
+vibratsiooni või kukkumise ohtu takistuse tõttu._
+
+_(9) Sõiduteele laskumise ja sealt kõnniteele või ohutussaarele tõusmise hõlbustamiseks ei tohi kasutada
+längu lõigatud äärekive ega kavandada sõiduteele kaldpakke._
+
+Seega on tellijal lähteülesandes ning tööde vastuvõtmisel võimalik viidata kehtivale standardile. Kasutagem seda võimalust!
 
 Head otsustajad - suuname ometi fookuse autodelt kergliiklejale nagu seda on tehtud näiteks [Kopenhaagenis, kus selliselt toimides](http://www.copenhagenize.com/) on jõutud tulemuseni, et **ainult 9% igapäevastest liikumistest tehakse autoga!**
 
