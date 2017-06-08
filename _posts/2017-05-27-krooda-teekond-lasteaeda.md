@@ -10,7 +10,7 @@ Mõned kohad märkisime siiski üles, et vallaonud saaks need korda teha ;) Siin
 
 <script src="https://gist.github.com/tormi/74334dde3158a9ccd06bc27404d08f84.js"></script>
 
-## Tüüpviga
+## [Tüüpviga](#tüüpviga)
 
 13-st probleemsest kohast 11-l oli probleemiks **äärekivi terav serv** kohtades, kus kergtee ristub mõne teise teega. Kui Veskitammi tänava autoteel katendit vahetati, siis märgistati selline 5 cm kõrgune terav serv eraldi liiklusmärgiga (jah, keset kergteed).
 
@@ -26,7 +26,7 @@ Kujutage nüüd ette, et Krõõda teekonnal oleks 11 sellist liiklusmärki ... M
 
 Märkus juhuks, kui neid probleemseid kohti hakatakse parandama - äärekivi lõikamisest ei piisa, üleminek peab olema lauge.
 
-## Tuletõrjuja vs hea elukeskkonna looja
+## [Tuletõrjuja vs hea elukeskkonna looja](#tuletõrjuja-vs-hea-elukeskkonna-looja)
 
 Ma väga loodan, et tuletõrjujad tulevad garaazist välja ja need probleemsed kohad saavad parandatud. Palju jätkusuutlikum ja ka odavam oleks aga **õppida kogemusest** ja teha vastavad järeldused edaspidises. [2013.a postitasin valla Facebook'i kontole täpselt sama probleemi kohta Sofka poe ees](https://www.facebook.com/photo.php?fbid=3125543114794&set=o.338787067638&type=3&theater) (jääb ka Krõõda teekonnale):
 
@@ -40,7 +40,7 @@ Ei oleks ju raske lisada igasse kergteega seotud hankesse tingimus, et _ristumis
 
 Lisaks tuleks Krõõda teekonna sarnased süsteemsed ülevaatused teha kõigile peamistele elukohtade ja lasteasutuste/töökohtade vahelistele marsruutidele. Me kulutame päris suuri summasid kergteede rajamisele, aga käesolevas loos kirjeldatud väikesed takistused ei lase neid investeeringuid maksimaalselt ära kasutada. 
 
-## Standard EVS 843:2016. Linnatänavad
+## [Standard EVS 843:2016. Linnatänavad](#standard-evs-8432016-linnatänavad)
 (Artiklile lisatud 08.06.2017)
 
 Standardis on punkt _7.2.6 Jalakäijate ja jalgratturite teeületus_, mille lõigud 7, 8 ja 9 käsitlevad täpselt eeltoodut:
